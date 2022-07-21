@@ -1,2 +1,2 @@
 # Quiz-app
-I developed this portfolio website using HTML,CSS and JAVASCRIPT.
+I developed this Quiz app using HTML,CSS and JAVASCRIPT.
